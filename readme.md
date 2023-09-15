@@ -8,6 +8,9 @@ This a Django rest api running mysql for db engine, making available CRUD operat
 
 **IMPORTANT: Only zipcodes available for Nuevo Leon and Baja California due to db restriction cost**
 
+**You can access the public api with this url:**
+http://159.65.232.163:8000/api/zipcodes/64000
+
 ## Problem
 
 I thought about a couple of problems from the start,
