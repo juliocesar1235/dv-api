@@ -6,7 +6,7 @@ Api to manage MX zipcodes
 
 This a Django rest api running mysql for db engine, making available CRUD operations to a vast MX zipcodes repertoire
 
-**Only zipcodes available for Nuevo Leon and Baja California due to db restriction cost**
+**IMPORTANT: Only zipcodes available for Nuevo Leon and Baja California due to db restriction cost**
 
 ## Problem
 
