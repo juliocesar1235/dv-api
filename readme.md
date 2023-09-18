@@ -56,13 +56,6 @@ The api is structured very simple and follows the django framework rules by usin
 python manage.py runserver
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
 
 Contributors names and contact info
